@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/gpg-key/</loc>
+    <loc>https://adrianmatpersaud.github.io/personal/gpg-key/</loc>
     <lastmod>2024-09-29T13:21:58-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/g-xxxxxxxxx/</loc>
+    <loc>https://adrianmatpersaud.github.io/personal/g-xxxxxxxxx/</loc>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://adrianmatpersaud.github.io/personal/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://adrianmatpersaud.github.io/personal/tags/</loc>
   </url>
 </urlset>
